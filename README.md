@@ -1,4 +1,11 @@
-# Prior requirements : Installed Node & NPM packages , We Used Angular to perform this task
+## Prior requirements : Installed Node & NPM packages , We Used Angular to perform this task
+
+## Which External libraries are used for this project.
+
+1) Bootstrap ( jquery , popper.js)
+2) We Used 3rd party Api to use for requirement ( Indian Postal API , openweathermap )
+
+
 ## Set up this project on locally
 
 Run `git pull https://github.com/SamieZian/eFeed-task.git` for fork this project. Navigate to your local terminal of this project.
