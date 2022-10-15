@@ -1,14 +1,15 @@
-# EFeedTask
+# Prior requirements : Installed Node & NPM packages , We Used Angular to perform this task
+## Set up this project on locally
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
+Run `git pull https://github.com/SamieZian/eFeed-task.git` for fork this project. Navigate to your local terminal of this project.
 
-## Development server
+## Install all dependencies
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Run `npm install` for install all required dependencies
 
-## Code scaffolding
+## Start the project
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Build
 
